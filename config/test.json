@@ -1,0 +1,4 @@
+{
+    "jwt_secret_key": "abcd",
+    "mongoURI": "mongodb://localhost/db_test"
+}
